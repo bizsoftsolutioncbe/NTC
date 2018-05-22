@@ -25,5 +25,6 @@ namespace NTC.DAL
             throw new UnintentionalCodeFirstException();
         }
     
+        public virtual DbSet<PropertyDetail> PropertyDetails { get; set; }
     }
 }

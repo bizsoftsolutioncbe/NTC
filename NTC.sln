@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTC.DAL", "NTC.DAL\NTC.DAL.csproj", "{A303DB98-DC5E-42E1-82B5-92BE433B33A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTC.SL", "NTC.SL\NTC.SL.csproj", "{C67DB28B-69D7-4627-946B-5C3D28604A93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A303DB98-DC5E-42E1-82B5-92BE433B33A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A303DB98-DC5E-42E1-82B5-92BE433B33A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A303DB98-DC5E-42E1-82B5-92BE433B33A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C67DB28B-69D7-4627-946B-5C3D28604A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67DB28B-69D7-4627-946B-5C3D28604A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67DB28B-69D7-4627-946B-5C3D28604A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67DB28B-69D7-4627-946B-5C3D28604A93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
